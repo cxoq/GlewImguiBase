@@ -1,0 +1,24 @@
+﻿glfw3.lib(init.obj) : warning LNK4099: PDB '', 'glfw3.lib(init.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '', 'glfw3.lib(monitor.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(window.obj) : warning LNK4099: PDB '', 'glfw3.lib(window.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(input.obj) : warning LNK4099: PDB '', 'glfw3.lib(input.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_window.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(context.obj) : warning LNK4099: PDB '', 'glfw3.lib(context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_time.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_thread.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(platform.obj) : warning LNK4099: PDB '', 'glfw3.lib(platform.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '', 'glfw3.lib(vulkan.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_init.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_monitor.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(wgl_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(egl_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '', 'glfw3.lib(osmesa_context.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '', 'glfw3.lib(null_init.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_module.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '', 'glfw3.lib(win32_joystick.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '', 'glfw3.lib(null_monitor.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '', 'glfw3.lib(null_window.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '', 'glfw3.lib(null_joystick.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+     C:\Users\erenb\source\repos\ExternalImguıTut\x64\Debug\ExternalImguıTut.lib kitaplığı ve C:\Users\erenb\source\repos\ExternalImguıTut\x64\Debug\ExternalImguıTut.exp nesnesi oluşturuluyor
+LINK : warning LNK4232: ExternalImguıTut.exe adı ASCII olmayan karakterler içeriyor, DLL 1254 dışındaki ANSI kod sayfası ile sistemde yüklenmeyebilir
+  ExternalImguıTut.vcxproj -> C:\Users\erenb\source\repos\ExternalImguıTut\x64\Debug\ExternalImguıTut.exe
